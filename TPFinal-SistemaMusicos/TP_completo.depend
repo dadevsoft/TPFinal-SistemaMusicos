@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1687097154 source:c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"Musicos.h"
+	"ArchivoMusicos.h"
+	"Generos.h"
+	"ArchivoGeneros.h"
+	"subMenuMusicos.h"
+	"subMenuGeneros.h"
+	"subMenuConfiguracion.h"
+	"Instrumentos.h"
+	"ArchivoInstrumentos.h"
+	"subMenuInstrumentos.h"
+	"Pais.h"
+	"ArchivoPaises.h"
+	"subMenuPaises.h"
+	"Reportes.h"
+
+1687017439 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\fecha.h
+
+1686964119 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\funcionesesenciales.h
+
+1686971519 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\musicos.h
+
+1686968466 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\archivomusicos.h
+
+1686968466 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\submenumusicos.h
+
+1687030155 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\submenugeneros.h
+
+1687022330 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\generos.h
+
+1687094932 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\archivogeneros.h
+
+1687057046 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\submenuconfiguracion.h
+
+1687059750 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\instrumentos.h
+
+1687097947 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\archivoinstrumentos.h
+
+1687095344 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\submenuinstrumentos.h
+
+1687059290 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\reportes.h
+
+1687097154 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\pais.h
+
+1687098152 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\archivopaises.h
+
+1687098152 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp parcial\tp_completo\submenupaises.h
+
+1687104678 source:c:\users\dalam\onedrive\escritorio\tp_completo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesEsenciales.h"
+	"Fecha.h"
+	"Musicos.h"
+	"ArchivoMusicos.h"
+	"Generos.h"
+	"ArchivoGeneros.h"
+	"subMenuMusicos.h"
+	"subMenuGeneros.h"
+	"subMenuConfiguracion.h"
+	"Instrumentos.h"
+	"ArchivoInstrumentos.h"
+	"subMenuInstrumentos.h"
+	"Pais.h"
+	"ArchivoPaises.h"
+	"subMenuPaises.h"
+	"Reportes.h"
+
+1687103231 c:\users\dalam\onedrive\escritorio\tp_completo\fecha.h
+
+1687104011 c:\users\dalam\onedrive\escritorio\tp_completo\musicos.h
+
+1687104213 c:\users\dalam\onedrive\escritorio\tp_completo\archivomusicos.h
+
+1687104964 c:\users\dalam\onedrive\escritorio\tp_completo\generos.h
+
+1687105096 c:\users\dalam\onedrive\escritorio\tp_completo\archivogeneros.h
+
+1686968468 c:\users\dalam\onedrive\escritorio\tp_completo\submenumusicos.h
+
+1687103109 c:\users\dalam\onedrive\escritorio\tp_completo\submenugeneros.h
+
+1687108083 c:\users\dalam\onedrive\escritorio\tp_completo\submenuconfiguracion.h
+
+1687102343 c:\users\dalam\onedrive\escritorio\tp_completo\instrumentos.h
+
+1687097948 c:\users\dalam\onedrive\escritorio\tp_completo\archivoinstrumentos.h
+
+1687102343 c:\users\dalam\onedrive\escritorio\tp_completo\submenuinstrumentos.h
+
+1687097156 c:\users\dalam\onedrive\escritorio\tp_completo\pais.h
+
+1687098154 c:\users\dalam\onedrive\escritorio\tp_completo\archivopaises.h
+
+1687098154 c:\users\dalam\onedrive\escritorio\tp_completo\submenupaises.h
+
+1687059292 c:\users\dalam\onedrive\escritorio\tp_completo\reportes.h
+
+1687104764 c:\users\dalam\onedrive\escritorio\tp_completo\funcionesesenciales.h
+
+1687437115 source:c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesEsenciales.h"
+	"Fecha.h"
+	"Musicos.h"
+	"ArchivoMusicos.h"
+	"Generos.h"
+	"ArchivoGeneros.h"
+	"subMenuMusicos.h"
+	"subMenuGeneros.h"
+	"Instrumentos.h"
+	"ArchivoInstrumentos.h"
+	"subMenuInstrumentos.h"
+	"Pais.h"
+	"ArchivoPaises.h"
+	"subMenuPaises.h"
+	"subMenuConfiguracion.h"
+	"Reportes.h"
+
+1687199381 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\funcionesesenciales.h
+
+1687200007 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\fecha.h
+
+1687298627 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\musicos.h
+	"Generos.h"
+	"Instrumentos.h"
+
+1687272800 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\archivomusicos.h
+
+1687201321 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\generos.h
+
+1687436057 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\archivogeneros.h
+
+1687436084 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\submenumusicos.h
+
+1687103110 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\submenugeneros.h
+
+1687199115 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\instrumentos.h
+
+1687436145 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\archivoinstrumentos.h
+
+1687438015 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\submenuinstrumentos.h
+
+1687199172 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\pais.h
+
+1687280676 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\archivopaises.h
+
+1687098154 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\submenupaises.h
+
+1687436583 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\submenuconfiguracion.h
+
+1687444568 c:\users\mando\desktop\david\utn tup\2do cuatrimestre\tp_completo_modificado\reportes.h
+	"Generos.h"
+	"Pais.h"
+
+1762276982 source:c:\users\dav\downloads\chaponan_david\chapoñan_david\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"FuncionesEsenciales.h"
+	"Fecha.h"
+	"Musicos.h"
+	"ArchivoMusicos.h"
+	"Generos.h"
+	"ArchivoGeneros.h"
+	"subMenuMusicos.h"
+	"subMenuGeneros.h"
+	"Instrumentos.h"
+	"ArchivoInstrumentos.h"
+	"subMenuInstrumentos.h"
+	"Pais.h"
+	"ArchivoPaises.h"
+	"subMenuPaises.h"
+	"subMenuConfiguracion.h"
+
+1687199382 c:\users\dav\downloads\chaponan_david\chapoñan_david\funcionesesenciales.h
+
+1687200008 c:\users\dav\downloads\chaponan_david\chapoñan_david\fecha.h
+
+1687298628 c:\users\dav\downloads\chaponan_david\chapoñan_david\musicos.h
+	"Generos.h"
+	"Instrumentos.h"
+
+1687201322 c:\users\dav\downloads\chaponan_david\chapoñan_david\generos.h
+
+1687199116 c:\users\dav\downloads\chaponan_david\chapoñan_david\instrumentos.h
+
+1687272802 c:\users\dav\downloads\chaponan_david\chapoñan_david\archivomusicos.h
+
+1687436058 c:\users\dav\downloads\chaponan_david\chapoñan_david\archivogeneros.h
+
+1687436086 c:\users\dav\downloads\chaponan_david\chapoñan_david\submenumusicos.h
+
+1687103110 c:\users\dav\downloads\chaponan_david\chapoñan_david\submenugeneros.h
+
+1687436146 c:\users\dav\downloads\chaponan_david\chapoñan_david\archivoinstrumentos.h
+
+1687438016 c:\users\dav\downloads\chaponan_david\chapoñan_david\submenuinstrumentos.h
+
+1687199174 c:\users\dav\downloads\chaponan_david\chapoñan_david\pais.h
+
+1687280678 c:\users\dav\downloads\chaponan_david\chapoñan_david\archivopaises.h
+
+1687098154 c:\users\dav\downloads\chaponan_david\chapoñan_david\submenupaises.h
+
+1762276689 c:\users\dav\downloads\chaponan_david\chapoñan_david\submenuconfiguracion.h
+
