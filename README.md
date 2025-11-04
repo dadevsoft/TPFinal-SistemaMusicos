@@ -18,5 +18,5 @@ Arquitectura del proyecto:
 - Baja lógica mediante bandera de estado
 ---
   Notas
-- El sistema utiliza **baja lógica**, por lo que los registros no se eliminan físicamente.
+- El sistema utiliza baja lógica, por lo que los registros no se eliminan físicamente.
 - Está pensado como práctica de manejo de archivos binarios en C++.
