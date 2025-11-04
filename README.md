@@ -19,4 +19,3 @@ Arquitectura del proyecto:
 ---
   Notas
 - El sistema utiliza baja lógica, por lo que los registros no se eliminan físicamente.
-- Está pensado como práctica de manejo de archivos binarios en C++.
